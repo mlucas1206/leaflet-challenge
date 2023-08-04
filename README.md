@@ -1,5 +1,5 @@
 # Leaflet Challenge
-
+Pages link to the application: https://mlucas1206.github.io/leaflet-challenge/
 ### Instructions
 
 ### Part 1: Create the Earthquake Visualization
