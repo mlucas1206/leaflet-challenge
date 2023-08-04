@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+/* Add the necessary styles for the legend */
+.leaflet-control-legend {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.leaflet-control-legend div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.color-block {
+  width: 20px;
+  height: 10px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.leaflet-control-legend span {
+  font-size: 12px;
+}
